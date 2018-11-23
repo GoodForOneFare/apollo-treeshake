@@ -2,7 +2,7 @@
 
 Demonstrates webpack's ability to treeshake react-apollo without breaking anything.
 
-This webpack configuration can build a react-apollo with/ without treeshaking.  Once built, the app can be viewed a `http://localhost:9000`:
+This webpack configuration can build a react-apollo with/ without treeshaking.  Once built, the app can be viewed at `http://localhost:9000`:
 
 ```sh
 yarn
